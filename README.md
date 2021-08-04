@@ -18,6 +18,7 @@ Takeaways from deliverables
 
 
 Summary 
+
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
 - There are 90,398 positions that will need to be filled in the time when the positions with employees about to retire will be vacant. 
 - Yes, there are enough retirement ready employees in the departments to mentor the next generation staff. I created a new table called mentor_titles which looks at the titles of mentor-eligible employees shown below
